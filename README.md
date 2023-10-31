@@ -1,7 +1,6 @@
 ### Olá pessoal,👋
 Bem vindo ao meu perfil Github
 
-<!--
 **LucasFogaca741/LucasFogaca741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Atualmente estou trabalhando no Instituto de Pesquisas Eldorado
@@ -25,4 +24,6 @@ Bem vindo ao meu perfil Github
 <img decoding="async" width="900" height="900" src="https://avatoon.me/wp-content/uploads/2022/09/57.jpg" class="attachment-large size-large wp-image-112937" alt="Arquivos SVG gratuitos de Halloween" loading="lazy" srcset="https://avatoon.me/wp-content/uploads/2022/09/57.jpg 900w, https://avatoon.me/wp-content/uploads/2022/09/57-300x300.jpg 300w, https://avatoon.me/wp-content/uploads/2022/09/57-100x100.jpg 100w, https://avatoon.me/wp-content/uploads/2022/09/57-600x600.jpg 600w, https://avatoon.me/wp-content/uploads/2022/09/57-150x150.jpg 150w, https://avatoon.me/wp-content/uploads/2022/09/57-768x768.jpg 768w, https://avatoon.me/wp-content/uploads/2022/09/57-400x400.jpg 400w" sizes="(max-width: 900px) 100vw, 900px">
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg) 
+
+<!--

@@ -16,12 +16,12 @@ Bem vindo ao meu perfil Github
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/lucas.fogaca">
+<img loading="lazy" height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="90em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img decoding="async" width="900" height="900" src="https://avatoon.me/wp-content/uploads/2022/09/57.jpg" class="attachment-large size-large wp-image-112937" alt="Arquivos SVG gratuitos de Halloween" loading="lazy" srcset="https://avatoon.me/wp-content/uploads/2022/09/57.jpg 900w, https://avatoon.me/wp-content/uploads/2022/09/57-300x300.jpg 300w, https://avatoon.me/wp-content/uploads/2022/09/57-100x100.jpg 100w, https://avatoon.me/wp-content/uploads/2022/09/57-600x600.jpg 600w, https://avatoon.me/wp-content/uploads/2022/09/57-150x150.jpg 150w, https://avatoon.me/wp-content/uploads/2022/09/57-768x768.jpg 768w, https://avatoon.me/wp-content/uploads/2022/09/57-400x400.jpg 400w" sizes="(max-width: 900px) 100vw, 900px">
+<img decoding="async" width="120" height="120" src="https://avatoon.me/wp-content/uploads/2022/09/57.jpg" class="attachment-large size-large wp-image-112937" alt="Arquivos SVG gratuitos de Halloween" loading="lazy" srcset="https://avatoon.me/wp-content/uploads/2022/09/57.jpg 900w, https://avatoon.me/wp-content/uploads/2022/09/57-300x300.jpg 300w, https://avatoon.me/wp-content/uploads/2022/09/57-100x100.jpg 100w, https://avatoon.me/wp-content/uploads/2022/09/57-600x600.jpg 600w, https://avatoon.me/wp-content/uploads/2022/09/57-150x150.jpg 150w, https://avatoon.me/wp-content/uploads/2022/09/57-768x768.jpg 768w, https://avatoon.me/wp-content/uploads/2022/09/57-400x400.jpg 400w" sizes="(max-width: 900px) 100vw, 900px">
 
 
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg) 
